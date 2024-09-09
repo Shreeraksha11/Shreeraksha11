@@ -7,9 +7,12 @@ Languages: C, Python, HTML, CSS, JavaScript, Java, SQL
 Databases:SQL
 Tools: OpenCV, Git
 Machine Learning: Random Forest
+
 🌟 Certifications:
 Data Science: QSpiders Campus Connect Internship
+
 💼 Projects:
+
 🌱 Crop Recommendation System
 A system that recommends crops based on soil nutrients using a Random Forest algorithm. Built with Flask, Python, HTML, CSS, and JavaScript.
 
