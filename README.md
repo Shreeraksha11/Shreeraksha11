@@ -1,5 +1,36 @@
-## Hi there 👋
+## Hi I am Shreeraksha E 👋
 
+Welcome to my GitHub! I am a Computer Science and Engineering graduate from Canara Engineering College, with a passion for data science, machine learning, and software development. I'm always eager to learn new technologies and contribute to innovative projects.
+
+🚀 Skills & Technologies:
+Languages: C, Python, HTML, CSS, JavaScript, Java, SQL
+Databases:SQL
+Tools: OpenCV, Git
+Machine Learning: Random Forest
+🌟 Certifications:
+Data Science: QSpiders Campus Connect Internship
+💼 Projects:
+🌱 Crop Recommendation System
+A system that recommends crops based on soil nutrients using a Random Forest algorithm. Built with Flask, Python, HTML, CSS, and JavaScript.
+
+📱 Campus Battle
+A campus competition management system, built with MongoDB, React, Bootstrap, HTML, CSS, and JavaScript.
+
+🎉 Rose Garden Event Management System
+An event management platform built using HTML, CSS, JavaScript, PHP, and SQL.
+
+🖼️ Text Extractor
+A project that detects and extracts text from images using OpenCV and image processing techniques.
+
+📚 Education:
+B.E. in Computer Science & Engineering – Canara Engineering College, CGPA: 7.94
+PUC – Nehru Memorial College, 83%
+High School – Javahar Navodaya Vidyalaya, 76.4%
+🌍 Languages:
+English, Kannada, Konkani, Tulu
+✨ Let's Connect:
+LinkedIn: Shreeraksha E.
+Email: shreeraksha11@example.com
 <!--
 **Shreeraksha11/Shreeraksha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
