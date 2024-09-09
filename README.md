@@ -29,8 +29,8 @@ High School – Javahar Navodaya Vidyalaya, 76.4%
 🌍 Languages:
 English, Kannada, Konkani, Tulu
 ✨ Let's Connect:
-LinkedIn: Shreeraksha E.
-Email: shreeraksha11@example.com
+LinkedIn: http://linkedin.com/in/shreeraksha-e-21357621b.
+Email: shreerakshaprabhu11@gmail.com
 <!--
 **Shreeraksha11/Shreeraksha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
