@@ -24,6 +24,7 @@ A project that detects and extracts text from images using OpenCV and image proc
 
 🌍 Languages:
 English, Kannada, Konkani, Tulu
+
 ✨ Let's Connect:
 LinkedIn: http://linkedin.com/in/shreeraksha-e-21357621b.
 Email: shreerakshaprabhu11@gmail.com
