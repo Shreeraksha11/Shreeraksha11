@@ -22,10 +22,6 @@ An event management platform built using HTML, CSS, JavaScript, PHP, and SQL.
 🖼️ Text Extractor
 A project that detects and extracts text from images using OpenCV and image processing techniques.
 
-📚 Education:
-B.E. in Computer Science & Engineering – Canara Engineering College, CGPA: 7.94
-PUC – Nehru Memorial College, 83%
-High School – Javahar Navodaya Vidyalaya, 76.4%
 🌍 Languages:
 English, Kannada, Konkani, Tulu
 ✨ Let's Connect:
